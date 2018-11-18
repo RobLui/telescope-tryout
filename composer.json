@@ -1,7 +1,6 @@
 {
-    "name": "laravel/laravel",
+    "name": "laravel/telescope-project",
     "type": "project",
-    "description": "The Laravel Framework.",
     "keywords": [
         "framework",
         "laravel"
@@ -17,6 +16,7 @@
         "beyondcode/laravel-dump-server": "^1.0",
         "filp/whoops": "^2.0",
         "fzaninotto/faker": "^1.4",
+        "laravel/telescope": "^1.0",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^2.0",
         "phpunit/phpunit": "^7.0"
